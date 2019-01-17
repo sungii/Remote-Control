@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="ip_adress">IP-Adress:</string>
+    <string name="remote_control">Remote Control</string>
+    <string name="_192_168_2_167">192.168.2.167</string>
+    <string name="port_nr">Port-Nr:</string>
+    <string name="connect">Connect</string>
+    <string name="_5656">5656</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="warning">Invalid IP-Address/Port Number</string>
+    <string name="screen_mode">Screen Mode</string>
+</resources>
