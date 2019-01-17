@@ -197,7 +197,7 @@ public class mainFragment extends Fragment{
 
         endTime = System.currentTimeMillis();
         return false;
-    }*/
+    }*/ 
 
     //Connect to Server
     Socket socket = null;
